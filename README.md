@@ -5,7 +5,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://on1-wp.s3.amazonaws.com/wp-content/uploads/2022/10/26214309/on1-resizeai-2023-icon256.png" width="200"><br>
-<a href="https://software-apps-osx.github.io/.github/">
+<a href="https://gnomik-gomik-apps.github.io/.github/ON1">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 <div align="center">
